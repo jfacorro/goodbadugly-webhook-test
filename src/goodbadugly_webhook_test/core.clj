@@ -1,7 +1,5 @@
 (ns goodbadugly-webhook-test.core)
 
-(= 1)
-
 (defn foo
   "I don't do a whole lot."
   [x]
