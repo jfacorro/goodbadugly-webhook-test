@@ -10,6 +10,6 @@
  (= 2))
 
 (defn bar
-  "I don't do a whole lot."
   [x]
+  "I don't do a whole lot."
   (println x "Hello, World!"))
