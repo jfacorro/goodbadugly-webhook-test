@@ -6,8 +6,7 @@
   :this-is-a-warning
   (println x "Hello, World!"))
 
-(-> 1
- (= 2))
+(-> 1 (= 2))
 
 (defn bar
   [x]
